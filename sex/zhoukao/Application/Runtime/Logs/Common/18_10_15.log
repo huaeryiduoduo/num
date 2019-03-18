@@ -1,0 +1,288 @@
+[ 2018-10-15T08:46:58+08:00 ] ::1 /zhoukao/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+ERR: 无法加载模块:Main
+
+[ 2018-10-15T08:46:58+08:00 ] ::1 /zhoukao/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001151s ]
+ERR: 无法加载模块:Top
+
+[ 2018-10-15T08:46:58+08:00 ] ::1 /zhoukao/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+ERR: 无法加载模块:Menu
+
+[ 2018-10-15T08:46:58+08:00 ] ::1 /zhoukao/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+ERR: 无法加载模块:Top
+
+[ 2018-10-15T08:46:58+08:00 ] ::1 /zhoukao/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+ERR: 无法加载模块:Main
+
+[ 2018-10-15T08:46:58+08:00 ] ::1 /zhoukao/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+ERR: 无法加载模块:Menu
+
+[ 2018-10-15T08:46:58+08:00 ] ::1 /zhoukao/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+ERR: 无法加载模块:Top
+
+[ 2018-10-15T08:46:58+08:00 ] ::1 /zhoukao/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:Menu
+
+[ 2018-10-15T08:46:58+08:00 ] ::1 /zhoukao/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:Main
+
+[ 2018-10-15T08:48:12+08:00 ] ::1 /zhoukao/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+ERR: 无法加载模块:Menu
+
+[ 2018-10-15T08:48:12+08:00 ] ::1 /zhoukao/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 无法加载模块:Main
+
+[ 2018-10-15T08:48:12+08:00 ] ::1 /zhoukao/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002504s ]
+ERR: 无法加载模块:Menu
+
+[ 2018-10-15T08:48:12+08:00 ] ::1 /zhoukao/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:Main
+
+[ 2018-10-15T08:48:12+08:00 ] ::1 /zhoukao/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001311s ]
+ERR: 无法加载模块:Menu
+
+[ 2018-10-15T08:48:12+08:00 ] ::1 /zhoukao/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+ERR: 无法加载模块:Main
+
+[ 2018-10-15T08:48:25+08:00 ] ::1 /zhoukao/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+ERR: 无法加载模块:Menu
+
+[ 2018-10-15T08:48:25+08:00 ] ::1 /zhoukao/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+ERR: 无法加载模块:Main
+
+[ 2018-10-15T08:48:25+08:00 ] ::1 /zhoukao/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 无法加载模块:Menu
+
+[ 2018-10-15T08:48:25+08:00 ] ::1 /zhoukao/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+ERR: 无法加载模块:Main
+
+[ 2018-10-15T08:48:25+08:00 ] ::1 /zhoukao/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+ERR: 无法加载模块:Menu
+
+[ 2018-10-15T08:48:25+08:00 ] ::1 /zhoukao/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+ERR: 无法加载模块:Main
+
+[ 2018-10-15T08:48:50+08:00 ] ::1 /zhoukao/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001269s ]
+ERR: 无法加载模块:Main
+
+[ 2018-10-15T08:48:50+08:00 ] ::1 /zhoukao/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001423s ]
+ERR: 无法加载模块:Main
+
+[ 2018-10-15T08:48:50+08:00 ] ::1 /zhoukao/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+ERR: 无法加载模块:Main
+
+[ 2018-10-15T08:50:27+08:00 ] ::1 /zhoukao/Public/amdin/js/global.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001043s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:50:27+08:00 ] ::1 /zhoukao/Public/amdin/js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:50:27+08:00 ] ::1 /zhoukao/Public/amdin/styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:50:27+08:00 ] ::1 /zhoukao/Public/amdin/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001971s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:50:27+08:00 ] ::1 /zhoukao/Public/amdin/images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:50:27+08:00 ] ::1 /zhoukao/Public/amdin/js/transport.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:50:27+08:00 ] ::1 /zhoukao/Public/amdin/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:50:27+08:00 ] ::1 /zhoukao/Public/amdin/js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003350s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:50:27+08:00 ] ::1 /zhoukao/Public/amdin/images/arrow_left.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:50:27+08:00 ] ::1 /zhoukao/Public/amdin/images/arrow_right.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:50:27+08:00 ] ::1 /zhoukao/Public/amdin/js/transport.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:50:28+08:00 ] ::1 /zhoukao/Public/amdin/images/menu_plus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:50:28+08:00 ] ::1 /zhoukao/Public/amdin/images/menu_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:50:28+08:00 ] ::1 /zhoukao/Public/amdin/images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:57:51+08:00 ] ::1 /zhoukao/Public/admin/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:58:07+08:00 ] ::1 /zhoukao/Public/admin/goods.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:58:11+08:00 ] ::1 /zhoukao/Public/admin/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T08:58:59+08:00 ] ::1 /zhoukao/Public/admin/category.php?act=add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T09:06:57+08:00 ] ::1 /zhoukao/Public/admin/category.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T09:06:58+08:00 ] ::1 /zhoukao/Public/admin/goods.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T09:06:59+08:00 ] ::1 /zhoukao/Public/admin/goods.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T09:22:11+08:00 ] ::1 /zhoukao/Public/admin/goods.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T11:22:28+08:00 ] ::1 /zhoukao/Public/admin/goods.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-15T11:51:14+08:00 ] ::1 /zhoukao/Public/admin/goods.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+ERR: 无法加载模块:Public
+

@@ -1,0 +1,78 @@
+[ 2018-10-11T08:56:11+08:00 ] ::1 /tp3/Public/Admin/category.php?act=move&cat_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-11T08:56:13+08:00 ] ::1 /tp3/Public/Admin/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-11T08:57:21+08:00 ] ::1 /tp3/Public/Admin/goods.php?act=list&cat_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-11T10:56:22+08:00 ] ::1 /tp3/Public/Admin/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-11T10:56:22+08:00 ] ::1 /tp3/Public/Admin/comment_manage.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-11T10:56:23+08:00 ] ::1 /tp3/Public/Admin/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-11T10:56:24+08:00 ] ::1 /tp3/Public/Admin/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-11T10:56:24+08:00 ] ::1 /tp3/Public/Admin/comment_manage.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-11T10:56:25+08:00 ] ::1 /tp3/Public/Admin/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-11T13:38:05+08:00 ] ::1 /tp3/Public/Admin/comment_manage.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-11T13:38:05+08:00 ] ::1 /tp3/Public/Admin/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-11T13:38:06+08:00 ] ::1 /tp3/Public/Admin/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-11T13:38:07+08:00 ] ::1 /tp3/Public/Admin/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Public
+

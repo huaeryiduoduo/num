@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>用户表单</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<div style="width:350px;margin:100px auto;">
+        <form action="" class='form'>
+        	<div style="font-size: 30px;font-weight: bold;text-align: center;">管理员信息添加页面</div>
+			<div style="height:45px;line-height:45px;background: #fff;width:350px;padding-left:15px;margin-top: 32px;position: relative;">
+				<span class="glyphicon glyphicon-user" style="font-size:18px;vertical-align:middle;top:-3px;color: #999;"></span>&nbsp;&nbsp;&nbsp;
+				<input type="text" name="name" style="height:45px;border:0;width:297px;"  placeholder="姓名（必填中文）" maxlength="5">
+				<span style='position:absolute;right: 0;bottom:-37px;font-size:13px;color: #f00;'></span>
+			</div>
+			<div style="height:45px;line-height:45px;background: #fff;width:350px;padding-left:15px;margin-top: 32px;position: relative;">
+				<span class="glyphicon glyphicon-user" style="font-size:18px;vertical-align:middle;top:-3px;color: #999;"></span>&nbsp;&nbsp;&nbsp;
+				<select name="phone" style="height:45px;border:0;width:297px;" placeholder="手机（必填）" maxlength="11">
+					<option>这是下拉框</option>
+					<option>这是下拉框</option>
+					<option>这是下拉框</option>
+					<option>这是下拉框</option>
+				</select>
+				<span style='position:absolute;right: 0;bottom:-37px;font-size:13px;color: #f00;'></span>
+			</div>
+			<div style="height:45px;line-height:45px;background: #fff;width:350px;padding-left:15px;margin-top: 32px;position: relative;">
+				<span class="glyphicon glyphicon-user" style="font-size:18px;vertical-align:middle;top:-3px;color: #999;"></span>&nbsp;&nbsp;&nbsp;
+				<input type="radio" name="danxuan"> &nbsp;是&nbsp;&nbsp;&nbsp;
+				<input type="radio" name="danxuan"> &nbsp;否
+				<span style='position:absolute;right: 0;bottom:-37px;font-size:13px;color: #f00;'></span>
+			</div>
+			<div style="height:45px;line-height:45px;background: #fff;width:350px;padding-left:15px;margin-top: 32px;position: relative;">
+				<span class="glyphicon glyphicon-user" style="font-size:18px;vertical-align:middle;top:-3px;color: #999;"></span>&nbsp;&nbsp;&nbsp;
+				<input type="checkbox" name="fuxuan[]"> &nbsp;复选框&nbsp;&nbsp;&nbsp;
+				<input type="checkbox" name="fuxuan[]"> &nbsp;复选框&nbsp;&nbsp;&nbsp;
+				<input type="checkbox" name="fuxuan[]"> &nbsp;复选框&nbsp;&nbsp;&nbsp;
+				<span style='position:absolute;right: 0;bottom:-37px;font-size:13px;color: #f00;'></span>
+			</div>
+			<div style="height:45px;line-height:45px;background: #fff;width:350px;padding-left:15px;margin-top: 32px;position: relative;">
+				<span class="glyphicon glyphicon-user" style="font-size:18px;vertical-align:middle;top:-3px;color: #999;"></span>&nbsp;&nbsp;&nbsp;
+				<input type="file" name="name" style="height:45px;border:0;width:297px; display: inline">
+				<span style='position:absolute;right: 0;bottom:-37px;font-size:13px;color: #f00;'></span>
+			</div>
+          	<input type="button" class="button" value="添加" style="padding: 10px 20px;border-radius: 5px;margin-left:50px">
+          	<input type="button" class="button" value="取消" style="padding: 10px 20px;border-radius: 5px;margin:30px  70px;">
+        </form>
+    </div>
+</body>
+</html>

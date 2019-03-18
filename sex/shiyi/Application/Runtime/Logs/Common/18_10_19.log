@@ -1,0 +1,768 @@
+[ 2018-10-19T08:40:25+08:00 ] ::1 /shiyi/Public/index/index/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:25+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:26+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:28+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a39a1afc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:28+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a4687b237.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:28+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9aa3502a7a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001657s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:28+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a48e73143.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:28+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:28+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:28+08:00 ] ::1 /shiyi/Public/index/index/images/th_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:28+08:00 ] ::1 /shiyi/Public/index/index/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:32+08:00 ] ::1 /shiyi/Public/index/goods.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:33+08:00 ] ::1 /shiyi/Public/index/index/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:33+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001269s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:34+08:00 ] ::1 /shiyi/Public/index/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:49+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a4687b237.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:49+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9aa3502a7a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:49+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a48e73143.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:49+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a39a1afc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:49+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:40:50+08:00 ] ::1 /shiyi/Public/index/index/images/th_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:41:05+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:41:22+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a39a1afc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:41:22+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:41:22+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a4687b237.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001080s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:41:23+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a48e73143.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:41:23+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9aa3502a7a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:54:23+08:00 ] ::1 /shiyi/Public/index/index/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:54:23+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:54:24+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:54:47+08:00 ] ::1 /shiyi/Public/index/index/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:54:47+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:54:47+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:57:13+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:57:13+08:00 ] ::1 /shiyi/Public/index/index/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:57:13+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:57:33+08:00 ] ::1 /shiyi/Public/index/index/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:57:33+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:57:34+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:58:48+08:00 ] ::1 /shiyi/Public/index/index/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:58:48+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:58:49+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:59:11+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:59:11+08:00 ] ::1 /shiyi/Public/index/index/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001266s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:59:12+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:59:13+08:00 ] ::1 /shiyi/Public/index/index/images/th_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:59:44+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a39a1afc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T08:59:44+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a4687b237.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:00:55+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a4687b237.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:00:55+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a39a1afc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001250s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:01:41+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a39a1afc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001472s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:01:41+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a4687b237.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:01:43+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a48e73143.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001412s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:01:43+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9aa3502a7a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:01:43+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:01:44+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:02:21+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a39a1afc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:02:21+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a4687b237.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:02:43+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a4687b237.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:02:43+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a39a1afc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:03:37+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a39a1afc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:03:37+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a4687b237.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:03:38+08:00 ] ::1 /shiyi/Public/index/brand.php?act=edit&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:03:40+08:00 ] ::1 /shiyi/Public/index/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:03:41+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a4687b237.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:03:41+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a39a1afc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:03:43+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a48e73143.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:03:43+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9aa3502a7a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:03:44+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T09:03:45+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001582s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:34:42+08:00 ] ::1 /shiyi/Public/index/index/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:34:43+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:34:43+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:34:44+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a39a1afc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:34:44+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a4687b237.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:34:44+08:00 ] ::1 /shiyi/Public/index/index/images/th_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:34:46+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a48e73143.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:34:46+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9aa3502a7a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:34:47+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:34:48+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:34:51+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:34:52+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:34:53+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9aa3502a7a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:34:53+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a48e73143.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001233s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:34:54+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a39a1afc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:36:49+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a48e73143.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:36:49+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9aa3502a7a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:36:49+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:36:50+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:36:52+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:36:53+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a4687b237.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T13:36:53+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a39a1afc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T19:22:44+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9aa3502a7a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T19:22:45+08:00 ] ::1 /shiyi/Public/index/index/images/th_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T19:22:45+08:00 ] ::1 /shiyi/Public/index/index/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T19:22:45+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001326s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T19:22:54+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T19:22:55+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a39a1afc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T19:22:55+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a4687b237.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T19:22:57+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9aa3502a7a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T19:22:57+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a48e73143.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T19:22:58+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T19:22:59+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:46:04+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a39a1afc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:46:06+08:00 ] ::1 /shiyi/Public//Public/Uploads/2018/10/07/5bb9a48e73143.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:46:07+08:00 ] ::1 /shiyi/Public/20181011/b806864c30aad88b1f2f38736c8af91e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:49:49+08:00 ] ::1 /shiyi/Public/index/order.php?act=merge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:49:51+08:00 ] ::1 /shiyi/Public/index/order.php?act=order_query
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:49:51+08:00 ] ::1 /shiyi/Public/index/order.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:49:53+08:00 ] ::1 /shiyi/Public/index/picture_batch.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:49:53+08:00 ] ::1 /shiyi/Public/index/goods_type.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:49:54+08:00 ] ::1 /shiyi/Public/index/brand.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:49:59+08:00 ] ::1 /shiyi/Public/index/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:49:59+08:00 ] ::1 /shiyi/Public/index/comment_manage.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:49:59+08:00 ] ::1 /shiyi/Public/index/brand.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:50:00+08:00 ] ::1 /shiyi/Public/index/goods_type.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:50:00+08:00 ] ::1 /shiyi/Public/index/brand.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:50:01+08:00 ] ::1 /shiyi/Public/index/comment_manage.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:50:01+08:00 ] ::1 /shiyi/Public/index/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:50:01+08:00 ] ::1 /shiyi/Public/index/goods.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:50:02+08:00 ] ::1 /shiyi/Public/index/index/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:50:02+08:00 ] ::1 /shiyi/Public/index/index/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000186s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001408s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:50:02+08:00 ] ::1 /shiyi/Public/index/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:50:03+08:00 ] ::1 /shiyi/Public/index/comment_manage.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:50:03+08:00 ] ::1 /shiyi/Public/index/goods_type.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:50:04+08:00 ] ::1 /shiyi/Public/index/brand.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:50:04+08:00 ] ::1 /shiyi/Public/index/comment_manage.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+ERR: 无法加载模块:Public
+
+[ 2018-10-19T20:50:05+08:00 ] ::1 /shiyi/Public/index/category.php?act=list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+ERR: 无法加载模块:Public
+
