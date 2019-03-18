@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<form action="tologin.php" method="post">
+		<center>
+			<table>
+				<tr>
+					<td>用户名</td>
+					<td><input type="text" name="name" id="name"></td>
+				</tr>
+				<tr>
+					<td>密码</td>
+					<td><input type="password" name="pass" id="pass"></td>
+				</tr>
+				<tr>
+					<td><input type="submit" value="登录"></td>
+				</tr>
+			</table>
+		</center>	
+	</form>
+</body>
+</html>
+<script src="js.js"></script>
+<script>
+	$(document).on("blur","#name",function(){
+		var v=$(this).val();
+		var res=/(13|15|17|18)[\d]{9}/.test(v);
+		if(res){
+			alert("格式正确");
+		}else{
+			alert("格式不正确");
+		}
+
+	})
+	$(document).on("blur","#pass",function(){
+		var v=$(this).val();
+		var res=/[\w]{6,}/.test(v);
+		if(res){
+			alert("格式正确");
+		}else{
+			alert("格式不正确");
+		}
+
+	})
+</script>

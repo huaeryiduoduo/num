@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<form action="deng.php" method="post">
+	<center>
+		<table>
+			<tr>
+				<td>用户名</td>
+				<td><input type="text" name="name" id="info"></td>
+			</tr>
+			<tr>
+				<td>密码</td>
+				<td><input type="password" name="pass" id="pwd"></td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="登录"></td>
+				<td><input type="reset" value="重置"></td>
+			</tr>
+		</table>
+	</center>	
+	</form>
+</body>
+</html>
+<script src="js.js"></script>
+<script>
+	$(document).on("blur","#info",function(){
+		var v=$(this).val();
+		var res=/(13|15|17|18)[\d]{9}/.test(v);
+		if(res){
+			alert("格式正确");
+		}else{
+	alert("格式错误");
+		}
+	})
+	$(document).on("blur","#pwd",function(){
+		var v =$(this).val();
+		var res=/[\w].{8,}/.test(v);
+		if(res){
+		alert("密码格式正确");
+		}else{
+		alert("密码格式错误");
+		}
+	})
+</script>
